@@ -1,0 +1,3 @@
+### Function row
+6 function keys, we can toggle between f1-f6, f7-f12, and debugging mode, where we have f5,f10,f11, etc for continuing, stepping, stepping in, out, stopping and restarting. this should usually be attached to the left side of the keyboard using magnets, but we can slide it out. A rotary encode could be used to switch, or just some sort of 3 way switch. 
+![400](_attachments/Pasted%20image%2020250115223346.png)

@@ -14,4 +14,8 @@
 *.writing filter=lfs diff=lfs merge=lfs -text
 *.sh filter=lfs diff=lfs merge=lfs -text
 *.woff2 filter=lfs diff=lfs merge=lfs -text
+*.ajson filter=lfs diff=lfs merge=lfs -text
+*.insyncdl filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.canvas filter=lfs diff=lfs merge=lfs -text
 * !text !filter !merge !diff
