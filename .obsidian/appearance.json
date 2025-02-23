@@ -1,0 +1,14 @@
+{
+  "accentColor": "#8eea60",
+  "cssTheme": "a_green_cat",
+  "enabledCssSnippets": [
+    "dataview",
+    "mathjax"
+  ],
+  "baseFontSize": 14,
+  "monospaceFontFamily": "Cascadia Code",
+  "baseFontSizeAction": true,
+  "theme": "obsidian",
+  "textFontFamily": "American Typewriter,Inter,JoyPixels",
+  "interfaceFontFamily": ""
+}

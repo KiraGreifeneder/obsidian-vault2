@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "48097e8f991d9003",
+    "type": "split",
+    "children": [
+      {
+        "id": "2ca9461bda2f0077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242509dc2769df04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "University/University.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10c913e761be2a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BrainDB/Tech/CORS.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f220f0bff9a3171d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ff0f5c24497d86eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planner/To-Do.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7a58aeb87a397de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planner/To-Do.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11a47de84bd99c28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Planner/To-Do.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23fa66b19a0e7f76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c53bb23836c401e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BrainDB/Calories in things.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfda552c52f3faa9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c44ec83e334b360f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "421ccc4d87ce7af4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9d0825d1ea411ff6",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "aaf21a139cb7a9f2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d12b79e6a7d88235",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5d3b95d03e7d329b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "BrainDB/Calories in things.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "05647edac1bc8d6f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "BrainDB/Calories in things.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "630b52c04b3e4a54",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "BrainDB/Calories in things.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "2c53bb23836c401e",
+  "lastOpenFiles": [
+    "BrainDB/Driving/Theory course notes.md",
+    "BrainDB/Calories in things.md",
+    "_data/calories.json",
+    "_data",
+    "_scripts/refresh_dv.js",
+    "Planner/To-Do.md",
+    "Planner/Projects/a_green_cat/Palette.md",
+    "BrainDB/Driving/_attachments/csm_hin-begegnung-20_efd787fc44.png",
+    "BrainDB/Driving/_attachments/Hinweiszeichen_9e_new.svg.png",
+    "BrainDB/Driving/_attachments/csm_hin-wohnstrasse_34ff0f5573.png",
+    "BrainDB/Driving/_attachments",
+    "BrainDB/Tech/bspwm cheat  sheet.md",
+    "TaskArchive.md",
+    "BrainDB/Driving/Session 8.md",
+    "BrainDB/BrainDB.md",
+    "Git.md",
+    "Archive/Elias.README.md",
+    "Archive/Kira.md",
+    "Quick notes/Fahrschule LIPA - Fahrstunden availability.md",
+    "Quick notes",
+    "BrainDB/Driving/Session 6.md",
+    "BrainDB/Driving/Session 5.md",
+    "Planner/Food.md",
+    "BrainDB/Driving/G02, G10.md",
+    "Planner/ROR2.md",
+    "University/University.md",
+    "BrainDB/Driving/Car mechanics.md",
+    "BrainDB/Driving/G01 G09.md",
+    "BrainDB/Driving",
+    "University/WS24/Logic/Exercise/Assignment 01.md",
+    "University/WS23/Analysis for Computer Science/Exercise/Exercise.md",
+    "University/WS23/Analysis for Computer Science/Lecture/Lecture.md",
+    "University/WS23/Systems Programming/Exercise/Exercise.md",
+    "University/WS23/Systems Programming/Lecture/Lecture.md",
+    "University/WS23/Analysis for Computer Science/Exercise",
+    "University/WS23/Analysis for Computer Science/Lecture",
+    "University/WS23/Systems Programming/Exercise",
+    "University/WS23/Systems Programming/Lecture",
+    "University/SS24/Statistics/_attachments/Pasted image 20240520105600.png",
+    "University/SS24/Statistics/_attachments/Pasted image 20240520114915.png",
+    "University/SS24/Statistics/_attachments/Pasted image 20240530211503.png",
+    "University/SS24/Statistics/_attachments/Pasted image 20240520115211.png",
+    "University/SS24/Statistics/_attachments/Pasted image 20240520115539.png",
+    "University/SS24/Statistics/_attachments/Pasted image 20240520114948.png",
+    "University/SS24/Statistics/_attachments/Pasted image 20240520105710.png"
+  ]
+}

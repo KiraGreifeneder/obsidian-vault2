@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "bfe594e334fe508b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5534c46cdef53346",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c9fff608c11b663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BrainDB/Tech/Electronics/Building a handwired split keyboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Building a handwired split keyboard"
+            }
+          },
+          {
+            "id": "f1c9910a13ba402d",
+            "type": "leaf",
+            "state": {
+              "type": "tldraw-view",
+              "state": {
+                "file": "BrainDB/Tech/Electronics/_attachments/Tldraw 2025-02-12 10.12PM.md"
+              },
+              "icon": "lucide-file",
+              "title": "Tldraw 2025-02-12 10.12PM"
+            }
+          },
+          {
+            "id": "ef759fa24bcb6934",
+            "type": "leaf",
+            "state": {
+              "type": "tldraw-view",
+              "state": {
+                "file": "BrainDB/Tech/Electronics/_attachments/Tldraw 2025-02-12 10.12PM.md"
+              },
+              "icon": "lucide-file",
+              "title": "Tldraw 2025-02-12 10.12PM"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b110faf3283d3ea3",
+    "type": "split",
+    "children": [
+      {
+        "id": "c56c50acde79beaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a5b746b6a037d75",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e4fbe2478ca4481b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "bbbcb246ab5f71a5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c6fe98ce3fcc2d1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b2db52befb5e0df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fd64510972cc181",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "BrainDB/Tech/Electronics/_attachments/Tldraw 2025-02-12 10.12PM.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tldraw 2025-02-12 10.12PM"
+            }
+          },
+          {
+            "id": "5ca14a6008656bdb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "University/WS24/Logic/Lecture/FOB2 Exercise.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from FOB2 Exercise"
+            }
+          },
+          {
+            "id": "642a7e7bb1f86a11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a22560a0c3bb4007",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "BrainDB/Tech/Electronics/Building a handwired split keyboard.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Building a handwired split keyboard"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "publish:Publish changes...": true,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "tldraw:Create new tldrawing": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "5c9fff608c11b663",
+  "lastOpenFiles": [
+    "BrainDB/Tech/Electronics/_attachments/Tldraw 2025-02-12 10.12PM.md",
+    "BrainDB/Tech/Electronics/Building a handwired split keyboard.md",
+    "BrainDB/Tech/Electronics/_attachments/_attachments/2f799393-ba0f-4c2c-92e0-b9eafabc626b-tldrawFile.png",
+    "BrainDB/Tech/Electronics/_attachments/_attachments/ef028378-5072-4507-a140-7cffd0762bd9-tldrawFile.png",
+    "BrainDB/Tech/Electronics/_attachments/_attachments",
+    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250212201730.png",
+    "BrainDB/Things Elias said in his sleep.md",
+    "BrainDB/BrainDB.md",
+    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250211194511.png",
+    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250210130403.png",
+    "_excalidraw/_attachments/Pasted Image 20240629182240_907.png~RF1052b6.TMP",
+    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250210151003.png",
+    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250210150806.png",
+    "Leetcode/Leetcode.md",
+    "Chords/Chords.md",
+    "Chords/Partner in Crime.md",
+    "BrainDB/Tech/Linux/Running Fusion360 on Fedora 41.md",
+    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250210003349.png",
+    "BrainDB/Tech/Electronics/Keyboard PCB Guide.md",
+    "BrainDB/Tech/Electronics/QMK.md",
+    "Planner/Flyte/Time management.md",
+    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250209190731.png",
+    "BrainDB/Tech/Electronics/AMOEBA single switch PCBs.md",
+    "Planner/Projects/GreenCatKeeb75/Design.md",
+    "BrainDB/Tech/Electronics/_attachments/WIringAndOther 1.svg",
+    "BrainDB/Tech/Electronics/_rnotes/WIringAndOther.rnote",
+    "BrainDB/Tech/Electronics/_rnotes",
+    "Planner/Flyte/Notes.md",
+    "Planner/Projects/GreenCatKeeb75/Parts.md",
+    "Archive/Kira.md",
+    "Archive/Elias.README.md",
+    "Archive/TaskArchive.md",
+    "Archive/Things to tell my therapist.md",
+    "BrainDB/Tech/Coding/yup (JS library).md",
+    "BrainDB/Tech/Coding/Typescript cheat sheet.md",
+    "BrainDB/Tech/Coding/PHP.md",
+    "BrainDB/Tech/Coding/TaskArchive.md",
+    "BrainDB/Tech/Coding/My rules.md",
+    "BrainDB/Tech/Coding/JS Framework comparison.md",
+    "BrainDB/Tech/Electronics/_attachments",
+    "BrainDB/Tech/Coding/_attachments",
+    "BrainDB/Tech/Coding",
+    "BrainDB/Tech/Linux/_attachments/AdskIdentityManager.exe",
+    "BrainDB/Tech/Linux/_attachments",
+    "University/WS24/Algorithms and Data Structures 2/Lecture/_attachments/2024W-340300-AD2.pdf"
+  ]
+}
