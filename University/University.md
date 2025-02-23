@@ -162,6 +162,7 @@ dv.el("br")
 ---
 ---
 ## Exam dates
+Signal Processing: 01.07.2025
 
 ## All courses
 
