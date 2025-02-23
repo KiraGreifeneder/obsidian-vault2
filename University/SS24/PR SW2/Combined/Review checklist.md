@@ -1,5 +1,0 @@
-- visibility check
-- mutability check
-- static check
-- Uhh make sure you really did understand the angabe...
-- avoid unnecessary checks (use elif)
