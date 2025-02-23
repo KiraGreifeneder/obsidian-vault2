@@ -1,0 +1,34 @@
+
+- [x] Content management (blog posts etc.)
+- [x] ÖSV digital Zugriffe
+	- [x] is complete -> link, regatta thingy on veranstaltungen page
+	- [x] In the future some access management, not relevant for now
+- [x] should use klubdesk
+- [x] menu bar up top
+- [x] veranstaltungen: regatta 356 calendar, link is generated... already existing
+- [x] Archiv:
+  - [x] Blog
+    - [x] images
+  - [x] Should not always be at the bottom of the page, but always shows up there
+  - [x] Articles should be sorted by date (newest first)
+  - [x] Sort by year
+    - [x] Untergeordnet: alte veranstaltungen with link to the beiträge
+- [x] Kommentare sollten eigentlich nicht da sein
+- [x] Jugend
+	- [ ] Own page where we present all jugendveranstaltungen/themen
+- [ ] Organisatorisches
+	- [x] Gebührenordnung
+	- [x] Klubregeln (statuten)
+	- [x] Informationen zum Beitritt
+	- [x] Anreise/location -> add google maps card
+	- [ ] Über uns
+  - [ ] Klubhistorie
+  - [ ] In combination with Archiv?
+- [x] Kontakt: as-is on the site, email sending block
+- [ ] Startseite:
+	- [x] Part of archiv, dashboard
+	- [x] Follow sections on original page
+	- [x] Instagram embed
+	- [x] Logos of the mitgliedsverbände at the very bottom or top like on original page
+- [x] Fix this thing where the site you're currently on is invisibl ein the menu
+- [x] In general, copy the home page layout
