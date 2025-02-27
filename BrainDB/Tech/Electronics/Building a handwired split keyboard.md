@@ -68,11 +68,7 @@ We can use the plate to hold the pcbs in place.
 L: 13mm 
 W: 12.4mm. 
 Nub height: 3mm
-#### Displays
-L
-W
-Screen L
-Screen H
-Thickness
+#### Screws
+Screw holes should be 3mm in diameter assuming that we'll use the screws from the old kbd75 plate
 ### Construction
 The plate will probably be the exact same size as the full case, and screwed in/wedged as a layer inbetween the top and bottom half of the case

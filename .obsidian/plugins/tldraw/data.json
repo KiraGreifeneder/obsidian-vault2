@@ -8,7 +8,7 @@
     "confirmDestination": false,
     "assetsFolder": "tldraw/assets",
     "destinationMethod": "attachments-folder",
-    "defaultFolder": "tldraw",
+    "defaultFolder": "_tldraw",
     "colocationSubfolder": ""
   },
   "saveFileDelay": 0.5,

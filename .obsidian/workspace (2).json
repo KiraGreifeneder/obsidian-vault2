@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5534c46cdef53346",
+        "id": "ed73b157552404f4",
         "type": "tabs",
         "children": [
           {
-            "id": "5c9fff608c11b663",
+            "id": "77e1b36937b49f3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,30 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "Building a handwired split keyboard"
-            }
-          },
-          {
-            "id": "f1c9910a13ba402d",
-            "type": "leaf",
-            "state": {
-              "type": "tldraw-view",
-              "state": {
-                "file": "BrainDB/Tech/Electronics/_attachments/Tldraw 2025-02-12 10.12PM.md"
-              },
-              "icon": "lucide-file",
-              "title": "Tldraw 2025-02-12 10.12PM"
-            }
-          },
-          {
-            "id": "ef759fa24bcb6934",
-            "type": "leaf",
-            "state": {
-              "type": "tldraw-view",
-              "state": {
-                "file": "BrainDB/Tech/Electronics/_attachments/Tldraw 2025-02-12 10.12PM.md"
-              },
-              "icon": "lucide-file",
-              "title": "Tldraw 2025-02-12 10.12PM"
             }
           }
         ]
@@ -103,7 +79,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c6fe98ce3fcc2d1c",
@@ -119,8 +96,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BrainDB/Tech/Electronics/_attachments/Tldraw 2025-02-12 10.12PM.md",
-                "collapseAll": true,
+                "file": "Planner/Projects/Sailing site/Reqs.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -129,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tldraw 2025-02-12 10.12PM"
+              "title": "Backlinks for Reqs"
             }
           },
           {
@@ -165,21 +142,18 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BrainDB/Tech/Electronics/Building a handwired split keyboard.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "University/WS24/Logic/Lecture/FOB2 Exercise.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Building a handwired split keyboard"
+              "title": "Outline of FOB2 Exercise"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,55 +167,56 @@
       "omnisearch:Omnisearch": false,
       "templater-obsidian:Templater": false,
       "tldraw:Create new tldrawing": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "hidden-folder-obsidian:Show Folders": false
     }
   },
-  "active": "5c9fff608c11b663",
+  "active": "77e1b36937b49f3e",
   "lastOpenFiles": [
-    "BrainDB/Tech/Electronics/_attachments/Tldraw 2025-02-12 10.12PM.md",
-    "BrainDB/Tech/Electronics/Building a handwired split keyboard.md",
-    "BrainDB/Tech/Electronics/_attachments/_attachments/2f799393-ba0f-4c2c-92e0-b9eafabc626b-tldrawFile.png",
-    "BrainDB/Tech/Electronics/_attachments/_attachments/ef028378-5072-4507-a140-7cffd0762bd9-tldrawFile.png",
-    "BrainDB/Tech/Electronics/_attachments/_attachments",
-    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250212201730.png",
-    "BrainDB/Things Elias said in his sleep.md",
-    "BrainDB/BrainDB.md",
-    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250211194511.png",
-    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250210130403.png",
-    "_excalidraw/_attachments/Pasted Image 20240629182240_907.png~RF1052b6.TMP",
-    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250210151003.png",
-    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250210150806.png",
-    "Leetcode/Leetcode.md",
-    "Chords/Chords.md",
-    "Chords/Partner in Crime.md",
-    "BrainDB/Tech/Linux/Running Fusion360 on Fedora 41.md",
-    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250210003349.png",
-    "BrainDB/Tech/Electronics/Keyboard PCB Guide.md",
-    "BrainDB/Tech/Electronics/QMK.md",
-    "Planner/Flyte/Time management.md",
-    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250209190731.png",
     "BrainDB/Tech/Electronics/AMOEBA single switch PCBs.md",
-    "Planner/Projects/GreenCatKeeb75/Design.md",
-    "BrainDB/Tech/Electronics/_attachments/WIringAndOther 1.svg",
+    "BrainDB/Tech/Electronics/Building a handwired split keyboard.md",
+    "BrainDB/Tech/Electronics/_attachments/4614270 4784121 Display Product Manual.pdf",
+    "BrainDB/BrainDB.md",
+    "Planner/Bachelorarbeit/Notes on a paper about VPP.md",
     "BrainDB/Tech/Electronics/_rnotes/WIringAndOther.rnote",
-    "BrainDB/Tech/Electronics/_rnotes",
-    "Planner/Flyte/Notes.md",
-    "Planner/Projects/GreenCatKeeb75/Parts.md",
-    "Archive/Kira.md",
-    "Archive/Elias.README.md",
-    "Archive/TaskArchive.md",
-    "Archive/Things to tell my therapist.md",
-    "BrainDB/Tech/Coding/yup (JS library).md",
-    "BrainDB/Tech/Coding/Typescript cheat sheet.md",
-    "BrainDB/Tech/Coding/PHP.md",
-    "BrainDB/Tech/Coding/TaskArchive.md",
-    "BrainDB/Tech/Coding/My rules.md",
-    "BrainDB/Tech/Coding/JS Framework comparison.md",
-    "BrainDB/Tech/Electronics/_attachments",
-    "BrainDB/Tech/Coding/_attachments",
-    "BrainDB/Tech/Coding",
+    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250213194812.png",
+    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250213194930.png",
     "BrainDB/Tech/Linux/_attachments/AdskIdentityManager.exe",
+    "BrainDB/Tech/Electronics/_attachments/_attachments/ef028378-5072-4507-a140-7cffd0762bd9-tldrawFile.png",
+    "BrainDB/Tech/Electronics/_attachments/_attachments/2f799393-ba0f-4c2c-92e0-b9eafabc626b-tldrawFile.png",
+    "BrainDB/Tech/Electronics/_attachments/WIringAndOther 1.png",
+    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250210150806.png",
+    "BrainDB/Tech/Electronics/_attachments/Untitled.svg",
+    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250212201730.png",
+    "BrainDB/Tech/Electronics/_attachments/Tldraw 2025-02-12 10.12PM.md",
+    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250211194511.png",
+    "BrainDB/Tech/Electronics/_attachments/Pasted image 20250210151003.png",
+    "BrainDB/Tech/Coding/Typescript/Clean Code - Typescript.md",
+    "BrainDB/Tech/Coding/Typescript/Typescript cheat sheet.md",
+    "BrainDB/Tech/Coding/Typescript/My rules.md",
+    "BrainDB/Tech/Coding/_attachments/Leetcode problem solutions 2024-08-20 18.34.16.excalidraw.md",
+    "BrainDB/Tech/Coding/Typescript/Clean Architecture - TS.md",
+    "BrainDB/Tech/Linux/Running Fusion360 on Fedora 41.md",
+    "BrainDB/Tech/Linux/Random tidbits on packages and whatnot.md",
+    "BrainDB/Tech/Linux/Keymaps.md",
+    "BrainDB/Tech/Coding/Typescript/Typescript Cookbok Summary.md",
+    "BrainDB/Tech/Linux/Fusion on Wine in detail - debugging and optimisation.md",
+    "BrainDB/Tech/Linux/bspwm cheat  sheet.md",
+    "BrainDB/Tech/Electronics/QMK.md",
+    "BrainDB/Tech/Electronics/Keyboard PCB Guide.md",
+    "BrainDB/Tech/Electronics/Pull-up resistors.md",
+    "BrainDB/Tech/Coding/TailwindCSS and Vanilla HTML - JS.md",
+    "BrainDB/Tech/Coding/yup (JS library).md",
+    "BrainDB/Tech/Coding/JS Framework comparison.md",
+    "BrainDB/Tech/Coding/PHP.md",
+    "BrainDB/Tech/Coding/CSS - BEM naming convention.md",
+    "BrainDB/Tech/Coding/DOT - Graphviz.md",
+    "BrainDB/Tech/Electronics/_attachments/_attachments",
     "BrainDB/Tech/Linux/_attachments",
-    "University/WS24/Algorithms and Data Structures 2/Lecture/_attachments/2024W-340300-AD2.pdf"
+    "BrainDB/Tech/Electronics/_rnotes",
+    "BrainDB/Tech/Electronics/_attachments",
+    "BrainDB/Tech/Coding/Typescript",
+    "BrainDB/Tech/Coding/_attachments",
+    "BrainDB/Tech/Linux"
   ]
 }
