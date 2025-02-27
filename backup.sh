@@ -4,5 +4,5 @@ dunstify "Obsidian vault is being pushed to GitHub... Any performance issues sho
 git add .
 git commit -m "automated backup"
 git lfs import
-git push
+git push --force
 git lfs migrate export --everything --include="*"
